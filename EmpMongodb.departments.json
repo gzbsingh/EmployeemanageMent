@@ -1,0 +1,33 @@
+[{
+  "_id": "1",
+  "departmentName": "Customer",
+  "createdAt": {
+    "$date": "2023-11-04T10:58:07.377Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-04T10:58:07.377Z"
+  },
+  "_class": "com.EmployeeManagement.Model.Department"
+},
+{
+  "_id": "2",
+  "departmentName": "Software",
+  "createdAt": {
+    "$date": "2023-11-04T14:18:36.450Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-04T14:18:36.450Z"
+  },
+  "_class": "com.EmployeeManagement.Model.Department"
+},
+{
+  "_id": "3",
+  "departmentName": "markting",
+  "createdAt": {
+    "$date": "2023-11-04T14:19:38.914Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-04T14:19:38.914Z"
+  },
+  "_class": "com.EmployeeManagement.Model.Department"
+}]
