@@ -10,7 +10,7 @@ The Employee Management System is a RestApi application that allows you to manag
 - Spring Boot
 - PostgreSQL (for Employee data)
 - MongoDB (for Department data)
-
+- Unit testing
 ## Project Structure
 
 The project is structured as follows:
